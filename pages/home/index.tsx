@@ -53,7 +53,12 @@ const Home = () => {
             Attraction, and more!
             <br />
             <button className="content-first-button">
-              SUBSCROBE FOR FREE WEEKLY TRANINGS
+              <a
+                style={{ textDecoration: "none", color: "white" }}
+                href="https://www.youtube.com/marykate88"
+              >
+                SUBSCROBE FOR FREE WEEKLY TRANINGS
+              </a>
             </button>
           </div>
         </div>
